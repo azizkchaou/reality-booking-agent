@@ -1,0 +1,8 @@
+# Confidential Reality source material: kept locally, never pushed (this repo is public).
+docs/source/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
